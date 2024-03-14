@@ -1,0 +1,13 @@
+
+// root.render takes object and convert into html elemnet so that browser can understand
+
+// const parent = React.createElement("div", { id: "parent" }
+
+// here is the core code  of react which is difficult to understand
+// Jsx makes us life easier easy to understand simple html elemnts but behind the scene above code conversion
+
+// react will work inside only root element not in whole app 
+{/* <div id="root">
+        <h1>saurav Jain</h1>
+    </div> */}
+// if root.render(root)
